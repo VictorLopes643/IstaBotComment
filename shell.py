@@ -3,7 +3,7 @@ import time
 
 cont = 0
 user = 'lopescwb'
-passs = 'Magnata643@'
+passs = ''
 url = 'https://www.instagram.com/accounts/login/?source=auth_switcher'
 driver = webdriver.Chrome("/Users/victo/Desktop/shell/chromedriver")
 driver.get(url)
